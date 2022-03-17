@@ -5,15 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansayed-1228&label=Profile%20views&color=0e75b6&style=flat" alt="hassansayed-1228" /> </p>
 
+<h3 align="left" > I’m looking for Frontend Intern / full time position!</h3>
+
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hassansayed-1228/](https://github.com/hassansayed-1228/)
-
-- 💬 Ask me about **Front End , Python , DSA , C/C++**
+- 💬 Ask me about **Front End , Python , DSA , DataBase , C/C++**
 
 - 📫 How to reach me **hassansyed1015@gmail.com**
 
-- 📄 Know about my experiences [https://syedhassanulhaq-portfolio.web.app/about.html](https://syedhassanulhaq-portfolio.web.app/about.html)
+- 👨‍💻 All of my projects are available at [https://github.com/hassansayed-1228/](https://github.com/hassansayed-1228/)
+
+- 📄 Know about my experiences [https://bit.ly/34S0TpY](https://bit.ly/34S0TpY)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
