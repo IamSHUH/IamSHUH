@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansayed-1228&label=Profile%20views&color=0e75b6&style=flat" alt="hassansayed-1228" /> </p>
 
-<h3 align="left" > I’m looking for Frontend Intern / full time position!</h3>
+<h3 align="left" > I’m looking for Front End / SDE full time position!</h3>
 
 - 🌱 I’m currently learning **Backend Technologies**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **hassansyed1015@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hassansayed-1228/](https://github.com/hassansayed-1228/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/hassansayed-1228/">My Github Profile</a>
 
-- 📄 Know about my experiences [https://bit.ly/34S0TpY](https://bit.ly/34S0TpY)
+- 📄 Know about my experiences <a href="https://bit.ly/34S0TpY">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
