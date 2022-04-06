@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansayed-1228&label=Profile%20views&color=0e75b6&style=flat" alt="hassansayed-1228" /> </p>
 
-<h3 align="left" > I’m looking for Front End / SDE full time position!</h3>
+<h3 align="left" > I’m looking for Front End / SDE Intern full time position!</h3>
 
 - 🌱 I’m currently learning **Backend Technologies**
 
