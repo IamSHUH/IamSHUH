@@ -34,6 +34,6 @@
 
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.IamSHUH.vercel.app/api?username=IamSHUH&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSHUH&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=IamSHUH&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSHUH&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
 </a>
