@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Syed Hassan Ul Haq</h1>
 <h3 align="center">Developer | Designer | Digital Creator</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassansayed-1228&label=Profile%20views&color=0e75b6&style=flat" alt="hassansayed-1228" /> </p>
 
@@ -30,3 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamSHUH&show_icons=true&locale=en&layout=compact" alt="hassansayed-1228" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamSHUH&show_icons=true&locale=en" alt="hassansayed-1228" /></p>
+
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.IamSHUH.vercel.app/api?username=IamSHUH&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSHUH&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
+</p>
+</a>
