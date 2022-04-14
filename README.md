@@ -19,12 +19,7 @@
 
 - 📄 Know about my experiences <a href="https://bit.ly/34S0TpY">My Portfolio</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syedhassanulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedhassanulhaq" height="30" width="40" /></a>
-<a href="https://instagram.com/im_hashh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_hashh/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syedhassanulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/syedhassanulhaq" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -103,3 +98,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=IamSHUH&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamSHUH&langs_count=4&layout=compact&theme=tokyonight&count_private=true&hide=Jupyter%20Notebook,HTML" alt="languages" height="165">
 </p>
 </a>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/syedhassanulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedhassanulhaq" height="30" width="40" /></a>
+<a href="https://instagram.com/im_hashh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_hashh/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/syedhassanulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/syedhassanulhaq" height="30" width="40" /></a>
+</p>
