@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/IamSHUH/">My Github Profile</a>
 
-- 📄 Know about my experiences <a href="https://shuhportfolio-test-deploy.netlify.app/" target="_blank" >My Portfolio</a>
+- 📄 Know about my experiences <a href="https://shuhportfolio.netlify.app/" target="_blank" >My Portfolio</a>
 
 
 
