@@ -28,6 +28,53 @@
 [![GitHub IamSHUH](https://img.shields.io/github/followers/IamSHUH?label=follow&style=social)](https://github.com/IamSHUH)
 [![website](https://img.shields.io/badge/Portfolio-IamSHUH-2648ff?style=flat-square&logo=google-chrome)](https://shuhportfolio.netlify.app/)
 
+<hr>
+
+<h3 align="center"> 👨‍💻 TECHNOLOGIES </h3>
+<!--<a align="center" href="">
+<p align="center">-->
+
+<div align="center">  
+<b>PROGRAMMING LANGUAGES : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> DATABASE : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> FRAMEWORKS : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b> TOOLS : </b>
+  <br><br>
+ </div>
+ 
+ <div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"><br><br>
+  <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"><br><br>
+  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"><br><br>
+  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
+  </div>&nbsp;
+  
+ 
+
+  <b> DATABASE : </b>
+  <br/>
+  <br/>
+  <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
+  <img align="left" width="40" height="35" src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png">
+
+  
+  <br/>
+  <br/>
+  
+
+  <b> TOOLS : </b> 
+  <br/>
+  
+  <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
+  <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
+  <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
+  <img align="left" width="30" height="30" src="https://gitforwindows.org/img/gwindows_logo.png">
+  <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+
+</div>
+
+<br/>
+<br/>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -135,3 +182,61 @@
 <a href="https://www.buymeacoffee.com/syedhassanulhaq" >
 <img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" width="150" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;">
 </a></p> -->
+
+
+
+
+
+
+
+
+
+- 👨‍💻 Technologies:
+
+  Programming Languages
+  
+  <img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+  <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
+  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
+  <br/>
+  <br/>
+  Database
+  <br/>
+  <br/>
+  <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
+  <img align="left" width="40" height="35" src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png">
+  <br/>
+  <br/>
+  
+
+  Tools
+  <br/>
+  
+  <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
+  <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
+   <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
+   <img align="left" width="30" height="30" src="https://gitforwindows.org/img/gwindows_logo.png">
+      <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  
+
+<br/>
+<br/>
+
+ 
+ 
+ - 🏆 Achievements
+  
+      Got Gold 5 stars in Hacker Rank On Python Programming  
+      
+<br/>
+
+ - 💻 Some of My Best Works 
+ </br>
+ 
+[![Metro Ticketing Application](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Metro_Ticketing&theme=blue-green)](https://github.com/padalakiran/Metro_Ticketing)
+[![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Bank_Management_System_For_Admin&theme=blue-green)](https://github.com/padalakiran/Bank_Management_System_For_Admin)
+
+
+</br>
