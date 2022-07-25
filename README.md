@@ -34,48 +34,89 @@
 <!--<a align="center" href="">
 <p align="center">-->
 
-<div align="center">  
+<table align="center" border: none;>
+  <tr>
+    <th>PROGRAMMING LANGUAGES</th>
+    <th>DATABASE &nbsp;</th>
+    <th>FRAMEWORKS &nbsp;</th>
+    <th>TOOLS &nbsp;</th>
+  </tr>
+	
+  <tr>
+    <td><img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">&nbsp; <sup>Python</sup></td>
+    <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>MySQL</sup></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>ReactJS</sup></td>
+    <td><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>VScode</sup></td>
+  </tr>
+	
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>C++</sup></td>
+    <td><img src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Postgre SQL</sup></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>NodeJS</sup></td>
+    <td><img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Excel</sup></td>
+  </tr>
+	
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/>&nbsp; <sup>HTML</sup></td>
+    <td><img src="https://img.icons8.com/color/452/mongodb.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>MongoDB</sup></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Bootstrap</sup></td>
+    <td><img src="https://pngimg.com/uploads/github/github_PNG80.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Git</sup></td>
+  </tr>	
+	
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>CSS</sup></td>
+    <td><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>FireBase</sup></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Laravel</sup></td>
+    <td><img src="https://gitforwindows.org/img/gwindows_logo.png" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>GitBash</sup></td>
+  </tr>
+	
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>JavaScript</sup></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>AdobeXD</sup></td>
+  </tr>
+	
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>PHP</sup></td>
+    <td></td>
+    <td></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="25" height="25"/>&nbsp; <sup>Figma</sup></td>
+  </tr>
+	
+<!--    <tr>
+    <td></td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+    <td>Mexico</td>
+  </tr> -->
+</table>
+
+<!-- <div align="center">  
 <b>PROGRAMMING LANGUAGES : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> DATABASE : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> FRAMEWORKS : </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b> TOOLS : </b>
   <br><br>
  </div>
  
  <div>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"><br><br>
-  <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"><br><br>
-  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"><br><br>
-  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
-  </div>&nbsp;
-  
- 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">&nbsp; <sup>Python</sup><br><br></div>
 
-  <b> DATABASE : </b>
-  <br/>
-  <br/>
-  <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
-  <img align="left" width="40" height="35" src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png">
-
-  
-  <br/>
-  <br/>
-  
-
-  <b> TOOLS : </b> 
-  <br/>
-  
-  <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
-  <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-  <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
-  <img align="left" width="30" height="30" src="https://gitforwindows.org/img/gwindows_logo.png">
-  <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">&nbsp; <sup>Python</sup><br><br>
 </div>
 
-<br/>
-<br/>
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">&nbsp; <sup>Python</sup><br><br>
+</div>
+
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">&nbsp; <sup>Python</sup><br><br>
+</div>
+</table> -->
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -110,9 +151,9 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a> 
-<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-</a>  -->
+</a>
  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -120,9 +161,9 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a> 
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>  -->
+</a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a> 
@@ -143,7 +184,7 @@
 </a> 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamSHUH&show_icons=true&locale=en&layout=compact" alt="hassansayed-1228" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamSHUH&show_icons=true&locale=en&layout=compact" alt="hassansayed-1228" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IamSHUH&show_icons=true&locale=en" alt="hassansayed-1228" /></p> -->
 
@@ -184,49 +225,9 @@
 </a></p> -->
 
 
-
-
-
-
-
-
-
-- 👨‍💻 Technologies:
-
-  Programming Languages
-  
-  <img align="left" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-  <img align="left" width="30" height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
-  <img align="left" width="25" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
-  <img align="left" width="30" height="30" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png">
-  <br/>
-  <br/>
-  Database
-  <br/>
-  <br/>
-  <img align="left" width="30" height="30" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-  <img align="left" width="30" height="35" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png">
-  <img align="left" width="40" height="35" src="https://icons-for-free.com/download-icon-postgresql+plain+wordmark-1324760555518154961_512.png">
-  <br/>
-  <br/>
-  
-
-  Tools
-  <br/>
-  
-  <img align="left" width="30" height="25" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
-  <img align="left" width="45" height="30" src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png">
-   <img align="left" width="30" height="30" src="https://pngimg.com/uploads/github/github_PNG80.png">
-   <img align="left" width="30" height="30" src="https://gitforwindows.org/img/gwindows_logo.png">
-      <img align="left" width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
-  
-
-<br/>
-<br/>
-
  
  
- - 🏆 Achievements
+<!--  - 🏆 Achievements
   
       Got Gold 5 stars in Hacker Rank On Python Programming  
       
@@ -239,4 +240,4 @@
 [![Bank Management System For Admin](https://github-readme-stats.vercel.app/api/pin/?username=padalakiran&repo=Bank_Management_System_For_Admin&theme=blue-green)](https://github.com/padalakiran/Bank_Management_System_For_Admin)
 
 
-</br>
+</br> -->
