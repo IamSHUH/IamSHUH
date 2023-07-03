@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **Front End , Python , DSA , DataBase , C/C++**
+- 💬 Ask me about **Front End , Python , DSA , DataBase , C/C++, Cloud**
 
 - 📫 How to reach me **hassansyed1015@gmail.com**
 
