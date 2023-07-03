@@ -200,9 +200,9 @@
   	<ul>
   	    <li><b>OS:</b>Windows 11</li>
 	      <li><b>Laptop: </b> HP Pavilion 2021</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
+  	    <li><b>Browser: </b> Edge & Chrome</li>
 	      <li><b>Code Editor:</b> VSCode ❤</li>
-		    <li><b>GitHub Pages & GitBash for Project deployment!</li>
+	    <li><b>GitHub Pages & GitBash for Project deployment!</li>
 	</ul>	
 
 <div align="centre">
